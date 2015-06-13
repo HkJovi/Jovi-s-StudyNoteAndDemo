@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CObject">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCmdTarget">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinThread">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAACAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAACAAAAAAAACAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd">
+    <Position X="3.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CView">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFrameWnd">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocument">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyWinApp">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyFrameWnd">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

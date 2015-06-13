@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CObject">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCmdTarget">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinThread">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAACAI=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWnd">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAEAQgAAAAEAAEAIACAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CView">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAgAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFrameWnd">
+    <Position X="7.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAgAAAAAQgQEAAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDocument">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinApp">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAESAAAAAAAAKAAI=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyFrameWnd">
+    <Position X="7.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyWinApp">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAQAIAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyView">
+    <Position X="5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyDoc">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="AFX_MSGMAP" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AFX_MSGMAP_ENTRY" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAAEAAgAAAAACAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="LPSTR" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LPCSTR" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DWORD" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BOOL" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="BYTE" Collapsed="true">
+    <Position X="17.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="WORD" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="INT" Collapsed="true">
+    <Position X="15.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UINT" Collapsed="true">
+    <Position X="19" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LONG" Collapsed="true">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="WPARAM" Collapsed="true">
+    <Position X="19" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LPARAM" Collapsed="true">
+    <Position X="12" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LRESULT" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HWND" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="AFX_PMSG" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="AFX_PMSGW" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFC.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
